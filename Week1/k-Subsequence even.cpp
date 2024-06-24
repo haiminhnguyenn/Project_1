@@ -27,5 +27,5 @@ int main() {
         if (weightFromIndex[i] % 2 == 0 && weightFromIndex[i] > 0) count++;
     }
 
-    cout << count;
+    cout << count << endl;
 }
